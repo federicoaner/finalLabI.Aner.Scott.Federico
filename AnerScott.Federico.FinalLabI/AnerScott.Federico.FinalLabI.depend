@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1612965009 source:c:\users\cynth\desktop\practicaparcialesfinal\anerscott.federico.finallabi\corredor.c
+	"corredor.h"
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	<string.h>
+
+1612965021 c:\users\cynth\desktop\practicaparcialesfinal\anerscott.federico.finallabi\corredor.h
+	"LinkedList.h"
+
+1612479413 source:c:\users\cynth\desktop\practicaparcialesfinal\anerscott.federico.finallabi\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1612479413 c:\users\cynth\desktop\practicaparcialesfinal\anerscott.federico.finallabi\linkedlist.h
+
+1612886877 source:c:\users\cynth\desktop\practicaparcialesfinal\anerscott.federico.finallabi\validacion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"validacion.h"
+
+1612886350 c:\users\cynth\desktop\practicaparcialesfinal\anerscott.federico.finallabi\validacion.h
+
+1612965326 source:c:\users\cynth\desktop\practicaparcialesfinal\anerscott.federico.finallabi\main.c
+	"corredor.h"
+	"parser.h"
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	"validacion.h"
+	"LinkedList.h"
+
+1612965214 source:c:\users\cynth\desktop\practicaparcialesfinal\anerscott.federico.finallabi\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"parser.h"
+	"LinkedList.h"
+	"corredor.h"
+
+1612963369 c:\users\cynth\desktop\practicaparcialesfinal\anerscott.federico.finallabi\parser.h
+	"LinkedList.h"
+	"corredor.h"
+	<stdio.h>
+	<stdlib.h>
+
